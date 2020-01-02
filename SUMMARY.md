@@ -14,6 +14,7 @@
         * [RDB和AOF持久化对比](redis讲解/redis持久化/RDB和AOF持久化对比.md)
         * [RDB持久化](redis讲解/redis持久化/RDB持久化.md)
         * [AOF持久化](redis讲解/redis持久化/AOF持久化.md)
+        * [企业级数据备份和数据恢复](redis讲解/redis持久化/企业级数据备份和数据恢复.md)
 * [双写不一致](双写不一致.md)
 * [大value缓存](大value缓存.md)
 * [缓存分布式并发重建冲突](缓存分布式并发重建冲突.md)
